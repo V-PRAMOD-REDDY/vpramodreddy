@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vpramodreddy&label=Profile%20views&color=0e75b6&style=flat" alt="vpramodreddy" /> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **MLSC**
 
 - 🌱 I’m currently learning **Java**
-
-- 👯 I’m looking to collaborate on **OntimeUpdates**
-
-- 🤝 I’m looking for help with **Startup**
 
 - 💬 Ask me about **python, front-end, java**
 
@@ -18,6 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/v-pramod-reddy-01683a29b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/v-pramod-reddy-01683a29b/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/pramod59/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/pramod59/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/vpramodr985g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/vpramodr985g/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
